@@ -1,0 +1,50 @@
+[1.wav]
+Instruction: 传统养生讲究睡觉时，一定要关好门窗。
+Target Text: 自结婚以来，我那位再也没有给我送过一朵玫瑰。
+Source ID: 00005142-00000067
+--------------------------------------------------
+[2.wav]
+Instruction: 真正落地成为产品服务进入每个人的生活。
+Target Text: 就在营救进行的同时，楼下却不断地发出欢呼，起哄声。
+Source ID: 10002481-00000105
+--------------------------------------------------
+[3.wav]
+Instruction: 营造宁静和平的网络安全空间。
+Target Text: 或许你们俩应去找个婚姻顾问做咨询。
+Source ID: 00013098-00000981
+--------------------------------------------------
+[4.wav]
+Instruction: 苏蒙联军要求驻山海关日军解除武装。
+Target Text: 院长王辰在五个一百睡眠工健康，工程启动会上强调。
+Source ID: 00005475-00000058
+--------------------------------------------------
+[5.wav]
+Instruction: 如产品中使用防腐剂，可以降低其含量。
+Target Text: 能省一点我们多挣一点吧，本来现在利润也不高。
+Source ID: 00005324-00000077
+--------------------------------------------------
+[6.wav]
+Instruction: Sometimes I overthink things which leads me to postpone and ultimately never achieve the goal I had in mind.
+Target Text: The primary coil has fifty turns.
+Source ID: common_voice_en_10933823-common_voice_en_10933825
+--------------------------------------------------
+[7.wav]
+Instruction: He approached the mass and was surprised at the size and the shape.
+Target Text: I'm never more aware of a room's acoustics than when I'm trying to enjoy a snack I have no intention of sharing.
+Source ID: common_voice_en_120405-common_voice_en_120402
+--------------------------------------------------
+[8.wav]
+Instruction: He approached the mass and was surprised at the size and the shape.
+Target Text: The only shadow was that of the few scattered pine trees.
+Source ID: common_voice_en_120405-common_voice_en_120406
+--------------------------------------------------
+[9.wav]
+Instruction: Roaming endlessly around the park, she wants to go home.
+Target Text: The work of the tailor is seen on each side.
+Source ID: common_voice_en_1205005-common_voice_en_1205007
+--------------------------------------------------
+[10.wav]
+Instruction: Roaming endlessly around the park, she wants to go home.
+Target Text: NASA plans to launch the rocket tomorrow.
+Source ID: common_voice_en_1205005-common_voice_en_1205008
+--------------------------------------------------
