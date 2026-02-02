@@ -255,7 +255,7 @@
               Designed for environmental audio tasks. Instructions explicitly negate speech (e.g., <i>"This audio does not contain speech."</i>) and focus on acoustic scenes and event textures using special effect tokens.
               <br><br>
               <strong>Type C: Mixed Audio</strong><br>
-              Captures the joint distribution of vocals and environments by activating both modalities. It integrates real-world recordings with synthetic mixtures generated via waveform superposition ($y_{mix} = y_s + \lambda \cdot y_e$), utilizing adaptive scaling to reach target Signal-to-Noise Ratios (SNR) of 5, 10, and 15 dB.
+              It captures the joint distribution of vocals and acoustic environments by jointly activating both modalities, combining real-world recordings with synthetically generated mixtures created through waveform superposition. Adaptive scaling is applied to control the relative energy of speech and background signals, producing mixtures at target signal-to-noise ratios of 5, 10, and 15 dB.
           </figcaption>
         </figure>
       </section>
